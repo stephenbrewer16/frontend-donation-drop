@@ -5,6 +5,12 @@ export default class App extends Component {
   state = {
     
   }
+
+  componentDidMount = () => {
+    
+  }
+
+
   render() {
     return (
       <div>
