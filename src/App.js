@@ -21,7 +21,7 @@ export default class App extends Component {
       <div>
         <Switch>
             <div>
-
+              <Route/>
             </div>
         </Switch>
       </div>
